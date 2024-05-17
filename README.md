@@ -1,8 +1,6 @@
 # Cozy-cups
-Proiect PI shop
-Cosy Cuisine este o platformă de comerț electronic dedicată cafelei de specialitate și accesoriilor asociate. Proiectul include funcționalități precum gestionarea produselor, confirmarea comenzilor pe email, recenzii și evaluări, opțiuni multiple de plată și o interfață intuitivă și responsivă.
+Cosy Cups is an e-commerce platform dedicated to specialty coffee and associated accessories. The project includes features such as product management, email order confirmation, reviews and ratings, multiple payment options, and an intuitive, responsive interface.
 
-Tehnologii utilizate: HTML, CSS, JavaScript, PHP, MySQL, Git.
+Technologies used: HTML, CSS, JavaScript, PHP, MySQL, Git.
 
-Pentru mai multe detalii și acces la codul sursă, vizitați repository-ul pe GitHub.
-
+For more details and access to the source code, please visit the GitHub repository.
